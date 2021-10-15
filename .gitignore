@@ -1,0 +1,5 @@
+data
+final outputs
+*.jpg
+.vscode
+__pycache__
